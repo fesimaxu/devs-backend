@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "johndoe@gmail.com",
+    "gender": "male",
+    "password": "mypassword"
+  },
+  {
+    "id": 2,
+    "firstname": "Jane",
+    "lastname": "Thomas",
+    "email": "jane@gmail.com",
+    "gender": "female",
+    "password": "mypassword"
+  },
+  {
+    "id": "f2e14d50-6a5a-4e7e-ba40-d9fbc0569a6f",
+    "firstname": "Felix",
+    "lastname": "Don",
+    "email": "felix@gmail.com",
+    "gender": "male",
+    "password": "mypassword",
+    "createdAt": "2023-06-21T09:17:23.819Z",
+    "updatedAt": "2023-06-21T09:17:23.819Z"
+  },
+  {
+    "id": "72943db6-60d4-4e96-9a01-a2c0c9420478",
+    "firstname": "Felix",
+    "lastname": "Don",
+    "email": "felix2@gmail.com",
+    "gender": "male",
+    "password": "$2b$10$yESKhIdyGVBAoxIhf8zwTu7V/SUFfNhNjMtafUKS58G5k32vAXU3e",
+    "createdAt": "2023-06-21T09:35:09.441Z",
+    "updatedAt": "2023-06-21T09:35:09.441Z"
+  },
+  {
+    "id": "1189b0c5-0087-4830-ba50-39982f706da9",
+    "firstname": "Felix",
+    "lastname": "Don",
+    "email": "felix22",
+    "gender": "male",
+    "password": "$2b$10$GW.JLqVX0aIuAx/8vzHlWu.6IzYuaatzdRhGdl8RDERYFtUAhY02C",
+    "createdAt": "2023-06-21T09:38:03.513Z",
+    "updatedAt": "2023-06-21T09:38:03.513Z"
+  }
+]
